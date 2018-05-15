@@ -1,0 +1,10 @@
+#login {
+    margin-top: 40px;
+}
+#loginForm {
+    margin: 50px 400px 10px 400px;
+    padding: 0 40px 20px 40px;
+    box-sizing: border-box;
+    background-color: rgba(148, 148, 148, 0.561);
+    /* box-shadow: 0 2px 4px 0 rgba(181,181,181,.7); */
+}

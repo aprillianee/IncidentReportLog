@@ -1,0 +1,25 @@
+.btn-info {
+    margin: 0px 0 70px 0;
+}
+#name {
+    margin-top: 100px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#chartinfo {
+    margin-top: 40px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#barinfo {
+    margin-top: 60px;
+    margin-bottom: 80px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#legend {
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+#name {
+    margin-top: 100px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#year {
+    margin-top: -20px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#chartinfo {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}

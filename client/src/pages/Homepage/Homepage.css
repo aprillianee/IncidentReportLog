@@ -1,0 +1,116 @@
+/* .aboutUs-appear {
+    opacity: 0.1;
+  }
+  
+.aboutUs-appear.aboutUs-appear-active {
+    opacity: 1;
+    transition: opacity .10s ease-in;
+} */
+#deck {
+    float: left;
+    padding: 30px 30px 30px 30px;
+}
+#cimg {
+    margin-top: 20px;
+}
+#cbody {
+    background-color: rgb(255, 255, 255);
+    padding: 20px 30px 10px 30px;
+    margin-top: 10px;
+    max-width: 1305px;
+}
+#ctitle {
+    color: rgb(0, 0, 0);
+    padding-bottom: 5px;
+    font-family: "Roboto";
+    letter-spacing: 0.5rem;
+    font-size: 38px;
+    text-align: center;
+}
+#ctext {
+    color: rgb(0, 0, 0);
+    font-family: "Times";
+    font-size: 18px;
+}
+.border {
+    width: 100%;
+    height: 500px;
+    margin: auto;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    letter-spacing: 1.0rem;
+    text-align: left;
+}
+#colOne {
+    padding-left: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#colTwo {
+    color: rgb(0, 0, 0);
+    text-align: center; 
+}
+#colThree {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-right: 35px;
+}
+#description {
+    text-align: center;
+    color:rgb(0, 0, 0);
+    margin-top: 180px;
+    font-size: 20px;
+    font-family: "avenir";
+}
+#risk {
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.aboutUs {
+    background-color: rgba(255, 255, 255, 0.835);
+    padding: 60px 0 60px 0;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.info {
+    background-color: rgba(255, 255, 255, 0.835);
+    padding: 60px 0 60px 0;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.benefits {
+    padding-bottom: 50px;
+    background-color: rgb(0, 0, 0);
+}
+.risk {
+    padding-bottom: 50px;
+    background-color: rgb(255, 255, 255);
+}
+#icons {
+    margin-top: 25px;
+    color: rgb(17, 0, 103);
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#safetyimg{
+    max-height: 420px;
+}
+#imagesize {
+   max-height: 600px;
+   width: 100%;
+}
+#imagesize2 {
+    width: 100%;
+    max-height: 600px;
+    margin-top: 40px;
+ }
+ #imgthree {
+     margin-top: 100px;
+     margin-bottom: 20px;
+     max-width: 100%;
+ }
+

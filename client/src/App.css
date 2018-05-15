@@ -1,0 +1,60 @@
+/* .backgroundPic {
+    background-image: url("/405.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+} */
+
+h1 {
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: 'Avenir';
+}
+
+select {
+    padding: 10px
+}
+
+form {
+    font-family: 'Times';
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Avenir';
+    padding-bottom: 20px
+}
+
+.bizCat {
+    float: left
+}
+
+.glyphicon {
+    font-size: 5em;
+    padding-bottom: 10px
+}
+p {
+    font-size: 1.0em;
+    color: black;
+    font-family: 'Avenir';
+    padding-bottom: 30px
+}
+
+#icons {
+    text-align: center;
+    padding-top: 80px
+}
+
+.graphs {
+    text-align: center
+}
+
+#legend {
+    float: center;
+    text-align: center;
+    display: table;
+    margin: 0 auto;
+    padding: 15px 0 40px 0
+}
+a {
+    color: black;
+}
