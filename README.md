@@ -6,11 +6,9 @@ This is a full stack web application built with React.js, Node.js, Express.js an
 
 ### Logins: 
 
-Email:    admin@abcfinancial.com
-Password:  abc123
+Email:    admin@abcfinancial.com | Password:  abc123
 
-Email:    admin@ormins.com
-Password: orm123
+Email:    admin@ormins.com | Password: orm123
 
 
 ### Preview the application: 
